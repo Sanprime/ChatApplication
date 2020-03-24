@@ -1,2 +1,2 @@
 # ChatApplication
-A web application made with Angular, Java, Spring, and Redis.
+Back-end API using Spring with Java and Redis
