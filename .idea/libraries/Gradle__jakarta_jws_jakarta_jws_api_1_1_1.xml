@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: jakarta.jws:jakarta.jws-api:1.1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/jakarta.jws/jakarta.jws-api/1.1.1/2fb6fbd7c39ab09565ad25af1ba7d5c3d43162c4/jakarta.jws-api-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/jakarta.jws/jakarta.jws-api/1.1.1/93c617e163558ea639c3230cd7dcdc0a074baa09/jakarta.jws-api-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

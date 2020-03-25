@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: jakarta.xml.ws:jakarta.xml.ws-api:2.3.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/jakarta.xml.ws/jakarta.xml.ws-api/2.3.2/3b2f351331db8cb1590c0077d380d2514d98d0e2/jakarta.xml.ws-api-2.3.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/jakarta.xml.ws/jakarta.xml.ws-api/2.3.2/3df6248275f56eae8f80737d551cd49a5686327f/jakarta.xml.ws-api-2.3.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
